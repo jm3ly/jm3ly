@@ -1,4 +1,4 @@
-### Hi there 👋
+A website dedicated to one of the pioneers of the future: JM3LY
 
 <!--
 **jm3ly/jm3ly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
