@@ -78,6 +78,7 @@ footer {
 
 .blog-post {
     margin-bottom: 20px;
+    min-height: 300px;
 }
 
 /* ... (remaining styles) ... */
