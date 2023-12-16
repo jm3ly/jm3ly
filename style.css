@@ -16,25 +16,25 @@ nav {
     color: #fff;
     text-align: center;
     padding: 0.5em;
-}
-
-nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
-nav a {
-    text-decoration: none;
-    color: #fff;
-    font-weight: bold;
-}
-
+  
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+  
+    ul li {
+      display: inline;
+      margin-right: 20px;
+    }
+  
+    a {
+      text-decoration: none;
+      color: #fff;
+      font-weight: bold;
+    }
+  }
+  
 section {
     padding: 20px;
 }
@@ -42,12 +42,18 @@ section {
 .gallery {
     display: flex;
     flex-wrap: wrap;
-}
+  
+    img {
+      width: 100%;
+      max-width: 300px;
+      margin: 10px;
+    }
+  }
+  
 
-.gallery img {
-    width: 100%;
-    max-width: 300px;
-    margin: 10px;
+#contact a {
+    display: flex;
+    justify-content: space-between;
 }
 
 .social-links a {
