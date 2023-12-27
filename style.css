@@ -11,6 +11,15 @@ header {
   padding: 1em;
 }
 
+#about p {
+  background-color: rgb(178, 217, 250);
+  max-width: max-content;
+  border: solid rgb(31, 123, 199);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+
 nav {
   background-color: rgb(102, 170, 226);
   color: #fff;
@@ -64,10 +73,14 @@ section {
   margin-right: 10px;
   margin-bottom: 10px;
   color: #333;
-  background-color: #fff;
   padding: 5px 10px;
   text-decoration: none;
   border-radius: 5px;
+  background-color: rgb(178, 217, 250);
+  max-width: max-content;
+  border: solid rgb(31, 123, 199);
+  padding: 10px;
+  border-radius: 10px;
 }
 
 footer {
