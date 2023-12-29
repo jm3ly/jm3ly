@@ -2,6 +2,7 @@ body {
   font-family: 'Garamond';
   margin: 0;
   padding: 0;
+  background-color: rgb(245, 245, 245);
 }
 
 header {
@@ -92,3 +93,4 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
