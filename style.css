@@ -1,11 +1,7 @@
-p {
+body {
   font-family: 'JelleeBold';
   font-weight: normal;
   font-style: normal;
-}
-
-body {
-  font-family: 'Garamond';
   margin: 0;
   padding: 0;
   background-color: rgb(245, 245, 245);
